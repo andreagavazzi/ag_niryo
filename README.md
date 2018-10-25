@@ -6,7 +6,7 @@ I miei programmi sviluppati per Niryo, opensource robotic arm (https://niryo.com
 
 
 ## ag_dice_reco
-Applicazione openCV per il riconoscimento delle facce di un dato
+Applicazione openCV per il riconoscimento delle facce di un dado
 
 
 ## ag_screen_subscriber
