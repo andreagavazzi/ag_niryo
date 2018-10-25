@@ -1,5 +1,8 @@
 # ag_niryo
-Programs for Niryo robot arm
+![alt text](https://gavazzionline.files.wordpress.com/2014/01/img_6916.jpg?w=300)
+
+I miei programmi sviluppati per Niryo, opensource robotic arm (https://niryo.com)
+
 
 
 ## ag_dice_reco
