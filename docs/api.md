@@ -26,6 +26,7 @@ n.calibrate_auto()
 
 ##### Learning mode
 ```python
+n.activate_learning_mode(False)
 n.activate_learning_mode(False)    # (True) per attivarlo
 ```
 
