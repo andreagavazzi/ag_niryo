@@ -1,4 +1,4 @@
-# Useful API doc
+# API cheatsheet
 
 ##### Template base
 
@@ -34,12 +34,12 @@ n.activate_learning_mode(False)    # (True) per attivarlo
 1. move_joints
     array di 6 joints
 2. move_pose
-    position x (m)
-    position y (m)
-    position z (m)
-    rotation x (rad)
-    rotation y (rad)
-    rotation z (rad
+position x (m)
+position y (m)
+position z (m)
+rotation x (rad)
+rotation y (rad)
+rotation z (rad)
 3. shift_pose
     axis (0: pos.x, 1: pos.y, 2: pos.z, 3: rot.x, 4: rot.y, 5: rot.z)
     value (m)
