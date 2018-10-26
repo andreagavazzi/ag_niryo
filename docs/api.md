@@ -1,4 +1,4 @@
-# API cheatsheet
+# API cheatsheet 
 
 ##### Template base
 
@@ -58,4 +58,5 @@ n.close_gripper()   # Parametri: tool id, close speed (between 0 and 1000, megli
 n.wait(2)  # In secondi, equivale a time.sleep(2)
 ```
 
-
+___
+![alt text](https://gavazzionline.files.wordpress.com/2014/01/img_6916.jpg?w=300)
