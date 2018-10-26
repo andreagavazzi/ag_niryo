@@ -1,6 +1,6 @@
 # Useful API doc
 
-Template base
+##### Template base
 
 ```python
 #!/usr/bin/env python
@@ -19,17 +19,17 @@ except NiryoOneException as e:
     # Handle errors here
 ```
 
-Calibrazione automatica da braccio in posizione 0
+##### Calibrazione automatica da braccio in posizione 0
 ```python
 n.calibrate_auto()
 ```
 
-Learning mode
+##### Learning mode
 ```python
 n.activate_learning_mode(False)    # (True) per attivarlo
 ```
 
-Per il movimento ho 3 possibilità
+##### Per il movimento ho 3 possibilità
 - move_joints
     array di 6 joints
 - move_pose
@@ -46,13 +46,13 @@ Per il movimento ho 3 possibilità
 n.move_joints()     # array di 6 joints
 ```
 
-Apertura e chiusura pinza
+##### Apertura e chiusura pinza
 ```python
 n.open_gripper()    # Parametri: tool id, open speed (between 0 and 1000, meglio tra 100 and 500)
 n.close_gripper()   # Parametri: tool id, close speed (between 0 and 1000, meglio tra 100 and 500)
 ```
 
-Blocca e aspetta
+##### Blocca e aspetta
 ```python
 n.wait(2)  # In secondi, equivale a time.sleep(2)
 ```
