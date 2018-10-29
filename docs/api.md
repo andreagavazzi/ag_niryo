@@ -32,7 +32,7 @@ n.activate_learning_mode(False)    # (True) per attivarlo
 
 ##### Per il movimento ho 3 possibilità
 1. move_joints
-    array di 6 joints
+    array di 6 joints: n.move_joints([1, 0, 0, 0, 0, 0])
 2. move_pose
 position x (m)
 position y (m)
