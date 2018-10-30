@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(niryo_one_tester)
+project(ag_action_server)
 
 
 ## Find catkin macros and libraries
