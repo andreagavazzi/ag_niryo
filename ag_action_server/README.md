@@ -39,3 +39,5 @@ In the same terminal window, run the node (for example simple_command_node) by
 rosrun niryo_one_tester simple_command_node
 ```
 
+___
+![alt text](https://gavazzionline.files.wordpress.com/2014/01/img_6916.jpg?w=300)
