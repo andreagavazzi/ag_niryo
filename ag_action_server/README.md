@@ -1,7 +1,7 @@
 ### Action Server 
 
 Questo package è un esempio di comunicazione tra ROS e Niryo tramite un action server.
-Basato sul codice di https://github.com/smaassen/niryo_one_tester.
+Basato sul codice di Steve Maassen: https://github.com/smaassen/niryo_one_tester.
 
 ## Dependencies
 This package depends on the actionlib and the niryo_one_msgs packages
