@@ -44,7 +44,8 @@ rotation z (rad)
     axis (0: pos.x, 1: pos.y, 2: pos.z, 3: rot.x, 4: rot.y, 5: rot.z)
     value (m)
 ```python
-n.move_joints()     # array di 6 joints
+n.move_joints([0,0,0,0,0,0])
+
 ```
 
 ##### Apertura e chiusura pinza
